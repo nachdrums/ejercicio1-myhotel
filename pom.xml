@@ -11,7 +11,7 @@
 	<groupId>com.prueba</groupId>
 	<artifactId>geeks</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>geeks</name>
+	<name>geeks-ejercicio1</name>
 	<description>Prueba técnica</description>
 	<properties>
 		<java.version>11</java.version>
