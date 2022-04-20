@@ -12,6 +12,10 @@ permita ingresar nuevos vehículos, editarlos, eliminarlos, listar y/o buscar al
 específico (CRUD). Además se requiere que el sistema sea capaz llevar un registro de las
 mantenciones realizadas a cada vehículo.
 
+## Arquitectura del proyecto
+
+-El proyecto está basado en una arquitectura de 3 capas (Controlador, Servicio, DAO) en el cual el controlador recibe las peticiones para que luego pase a la capa de lógica del proyecto (Servicio), y luego haga la persistencia en la capa DAO.
+
 ## Configuración de ambiente
 
 - Clone el repositorio en su carpeta de destino.
